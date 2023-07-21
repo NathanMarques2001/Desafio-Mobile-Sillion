@@ -26,7 +26,7 @@ Este é um aplicativo Android desenvolvido em [Java](https://www.oracle.com/java
 
 1. Clone este repositório para o seu ambiente local usando o seguinte comando:
 
-```git clone https://github.com/seu-usuario/nome-do-repositorio.git```
+```git clone https://github.com/NathanMarques2001/Desafio-Mobile-Sillion.git```
 
 
 2. Abra o projeto no Android Studio.
