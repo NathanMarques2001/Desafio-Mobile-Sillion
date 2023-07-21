@@ -18,6 +18,7 @@ Este é um aplicativo Android desenvolvido em [Java](https://www.oracle.com/java
 ## Tecnologias Utilizadas
 
 - Linguagem de programação: Java
+- Ambiente de desenvolvimento: Android Studio
 - Biblioteca de carregamento de imagens: Glide
 - Ferramentas de gerenciamento de dependências: Gradle
 - API: Randomuser.me
