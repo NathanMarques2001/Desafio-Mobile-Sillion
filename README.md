@@ -2,7 +2,7 @@
 
 ![RandomUser App](./Desafio-Mobile-Sillion/readme-assets/logo.png)
 
-Este é um aplicativo Android desenvolvido em [Java]([https://www.oracle.com/java/technologies/mobile-devices-downloads.html]) para consumir a API pública gratuita [Randomuser.me](https://randomuser.me/api/) e exibir informações de usuários aleatórios na interface do usuário.
+Este é um aplicativo Android desenvolvido em [Java](https://www.oracle.com/java/technologies/mobile-devices-downloads.html) para consumir a API pública gratuita [Randomuser.me](https://randomuser.me/api/) e exibir informações de usuários aleatórios na interface do usuário.
 
 ## Funcionalidades
 
