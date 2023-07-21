@@ -12,8 +12,8 @@ Este é um aplicativo Android desenvolvido em [Java](https://www.oracle.com/java
 
 ## Capturas de Tela
 
-![Captura de Tela 1](./readme-assets/tela1.png)
-![Captura de Tela 2](./readme-assets/tela2.png)
+![Captura de Tela 1](./readme-assets/tela1.png | width=100)
+![Captura de Tela 2](./readme-assets/tela2.png | width=100)
 
 ## Tecnologias Utilizadas
 
