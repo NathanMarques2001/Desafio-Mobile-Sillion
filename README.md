@@ -27,3 +27,20 @@ Este é um aplicativo Android desenvolvido em [Java](https://www.oracle.com/java
 1. Clone este repositório para o seu ambiente local usando o seguinte comando:
 
 ```git clone https://github.com/seu-usuario/nome-do-repositorio.git```
+
+
+2. Abra o projeto no Android Studio.
+
+3. Execute o aplicativo em um emulador Android ou dispositivo físico.
+
+## Contribuição
+
+Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests ou abrir issues para relatar problemas ou sugestões.
+
+## Contato
+
+Em caso de dúvidas, entre em contato comigo por e-mail: nathanbrandao1@gmail.com
+
+## Agradecimentos
+
+Agradeço ao time pela oportunidade de realizar este teste e por permitir que eu demonstrasse minha habilidade no desenvolvimento Android. Foi um desafio interessante e divertido! 😊
