@@ -12,13 +12,12 @@ Este é um aplicativo Android desenvolvido em [Java](https://www.oracle.com/java
 
 ## Capturas de Tela
 
-![Captura de Tela 1](https://url_da_imagem)
-![Captura de Tela 2](https://url_da_imagem)
-![Captura de Tela 3](https://url_da_imagem)
+![Captura de Tela 1](./Desafio-Mobile-Sillion/readme-assets/tela1.png)
+![Captura de Tela 2](./Desafio-Mobile-Sillion/readme-assets/tela2.png)
 
 ## Tecnologias Utilizadas
 
-- Linguagem de programação: Kotlin
+- Linguagem de programação: Java
 - Biblioteca de carregamento de imagens: Glide
 - Ferramentas de gerenciamento de dependências: Gradle
 - API: Randomuser.me
@@ -27,3 +26,4 @@ Este é um aplicativo Android desenvolvido em [Java](https://www.oracle.com/java
 
 1. Clone este repositório para o seu ambiente local usando o seguinte comando:
 
+´´´git clone https://github.com/seu-usuario/nome-do-repositorio.git´´´
