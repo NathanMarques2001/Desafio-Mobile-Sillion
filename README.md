@@ -12,10 +12,8 @@ Este é um aplicativo Android desenvolvido em [Java](https://www.oracle.com/java
 
 ## Capturas de Tela
 
-<img src="https://your-image-url.type" width="100" height="100">
-<img src="https://your-image-url.type" width="100" height="100">
-![Captura de Tela 1](./readme-assets/tela1.png | width=100)
-![Captura de Tela 2](./readme-assets/tela2.png | width=100)
+<img src="https://github.com/NathanMarques2001/Desafio-Mobile-Sillion/blob/master/readme-assets/tela1.png" width="100" height="auto">
+<img src="https://github.com/NathanMarques2001/Desafio-Mobile-Sillion/blob/master/readme-assets/tela2.png" width="100" height="auto">
 
 ## Tecnologias Utilizadas
 
