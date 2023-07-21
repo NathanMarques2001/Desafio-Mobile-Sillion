@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Desafio Mobile Sillion</string>
+    <string name="navbar">Random Users</string>
+    <string name="username">Username</string>
+    <string name="name">Nome: </string>
+    <string name="age">Idade: </string>
+    <string name="email">E-mail: </string>
+    <string name="fotoUsuario">Foto usuário</string>
+    <string name="gerarUsuario">Gerar usuário</string>
+    <string name="placeholderText">Pressione o botão acima para gerar um novo usuário!</string>
+    <string name="botaoVoltar">Botão voltar</string>
+    <string name="logoSillion">logo Sillion</string>
+    <string name="DescricaoApp">Desafio Desenvolvedor Mobile</string>
+    <string name="entrar">Entrar</string>
+    <string name="softwareEngineer">Software Engineer</string>
+</resources>
